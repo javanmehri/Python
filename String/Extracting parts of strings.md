@@ -1,8 +1,12 @@
 ### Extracting parts of strings
 ####Indexing:
+
 – **‘abc’[0]** returns the string **‘a’**
+
 – **‘abc’[2]** returns the string **‘c’**
+
 – **‘abc’[3]** is an **error** (as we cannot go beyond the boundaries of the string)
+
 – **‘abc’[-1]** returns the string **‘c’** (essentially counting backwards from the start of the string)
 
 #### Slicing
